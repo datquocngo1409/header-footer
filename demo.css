@@ -1,0 +1,13 @@
+.navbar{
+  background: pink;
+  width: 25%;
+  height: 1000px;
+  float: left;
+}
+
+.main {
+  background: darkkhaki;
+  width: 75%;
+  height: 1000px;
+  float: left;
+}
